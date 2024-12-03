@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\dotnetapp\\NewApp\\NewApp.csproj",
+      "projectUniqueName": "C:\\repos\\dotnetapp\\aspnetcrud\\NewApp\\NewApp.csproj",
       "projectName": "NewApp",
-      "projectPath": "C:\\repos\\dotnetapp\\NewApp\\NewApp.csproj",
+      "projectPath": "C:\\repos\\dotnetapp\\aspnetcrud\\NewApp\\NewApp.csproj",
       "packagesPath": "C:\\Users\\joshc\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\dotnetapp\\NewApp\\obj\\",
+      "outputPath": "C:\\repos\\dotnetapp\\aspnetcrud\\NewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshc\\AppData\\Roaming\\NuGet\\NuGet.Config"
