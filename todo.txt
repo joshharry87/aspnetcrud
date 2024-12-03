@@ -1,0 +1,20 @@
+make another simple as app with this
+
+
+make a simple CRUD page, managing generic text or whatever.
+
+to do:
+
+setup a database
+
+setup dtos
+setup models and views etc.
+
+display text with a number
+input text with a number
+edit text with a number
+delete etc.
+
+give is a simple aesthetic
+
+setup login stuff
